@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "友達のうた / 緑仙 feat. 弦月 藤士郎 Cover",
+  "base_artist": "緑仙",
+  "createdAt": "2025-12-01T20:35:53.901208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": true,
+      "path": "select/01_友達のうた_Yoeko_Kurahashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "友達のうた - Tomodachi no Uta",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": true,
+      "path": "select/02_友達のうた_-_Tomodachi_no_Uta_Yoeko_Kurahashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": false,
+      "path": "select/pl_01_友達のうた_Yoeko_Kurahashi.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": false,
+      "path": "select/pl_02_友達のうた_Yoeko_Kurahashi.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": false,
+      "path": "select/pl_03_友達のうた_Yoeko_Kurahashi.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": false,
+      "path": "select/pl_04_友達のうた_Yoeko_Kurahashi.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "友達のうた",
+      "artist": "Yoeko Kurahashi",
+      "has_synced": false,
+      "path": "select/pl_05_友達のうた_Yoeko_Kurahashi.txt"
+    }
+  ]
+}
